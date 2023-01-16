@@ -1,13 +1,16 @@
 ---
 title: Como llenar el formulario 29
+date: 2023-01-16T12:02:55.335Z
+description: El formulario 29 es un documento oficial de la Agencia Tributaria
+  española que se utiliza para declarar el Impuesto sobre el Valor Añadido
+  (IVA). Esta declaración se debe presentar trimestralmente por todas aquellas
+  empresas que sean sujetos pasivos del IVA. El formulario 29 es un documento
+  que contiene toda la información necesaria para realizar la declaración de
+  IVA, como los datos de la empresa, los datos de los bienes y servicios
+  adquiridos, los datos de los bienes y servicios vendidos, los datos de los
+  impuestos pagados y los datos de los impuestos a pagar.
 ---
-
-
-# ¿Qué es el formulario 29?
-
-El formulario 29 es un documento oficial de la Agencia Tributaria española que se utiliza para declarar el Impuesto sobre el Valor Añadido (IVA). Esta declaración se debe presentar trimestralmente por todas aquellas empresas que sean sujetos pasivos del IVA. El formulario 29 es un documento que contiene toda la información necesaria para realizar la declaración de IVA, como los datos de la empresa, los datos de los bienes y servicios adquiridos, los datos de los bienes y servicios vendidos, los datos de los impuestos pagados y los datos de los impuestos a pagar.
-
-# Introducción
+# ¿Qué es el formulario 29? 2x
 
 El formulario 29 es un documento oficial de la Agencia Tributaria española que se utiliza para declarar el Impuesto sobre el Valor Añadido (IVA). Esta declaración se debe presentar trimestralmente por todas aquellas empresas que sean sujetos pasivos del IVA. El formulario 29 es un documento que contiene toda la información necesaria para realizar la declaración de IVA, como los datos de la empresa, los datos de los bienes y servicios adquiridos, los datos de los bienes y servicios vendidos, los datos de los impuestos pagados y los datos de los impuestos a pagar.
 
@@ -35,7 +38,7 @@ Rellenar el formulario 29 para entregar en oficina es una forma más lenta y com
 
 Rellenar el formulario 29 en excel es una forma más rápida y sencilla de presentar la declaración de IVA. Para ello, la empresa debe descargar el formulario desde la página web de la Agencia Tributaria, abrirlo con Microsoft Excel y rellenarlo con los datos correspondientes.
 
-## Paso 1 del formulario 29 
+## Paso 1 del formulario 29
 
 El primer paso para rellenar el formulario 29 en excel es abrir el documento descargado desde la página web de la Agencia Tributaria. Una vez abierto, se debe rellenar la información básica de la empresa, como el nombre, el NIF, el domicilio fiscal, etc.
 
